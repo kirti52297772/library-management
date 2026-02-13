@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/library-management/static/css/main.d320d954.css",
+    "main.js": "/library-management/static/js/main.8dcd91d5.js",
+    "static/js/453.431addde.chunk.js": "/library-management/static/js/453.431addde.chunk.js",
+    "index.html": "/library-management/index.html",
+    "main.d320d954.css.map": "/library-management/static/css/main.d320d954.css.map",
+    "main.8dcd91d5.js.map": "/library-management/static/js/main.8dcd91d5.js.map",
+    "453.431addde.chunk.js.map": "/library-management/static/js/453.431addde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d320d954.css",
+    "static/js/main.8dcd91d5.js"
+  ]
+}
